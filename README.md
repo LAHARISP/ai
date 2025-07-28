@@ -1,3 +1,53 @@
+# ADmyBRAND AI Suite – Modern SaaS Landing Page
+
+A sleek, professional, and responsive landing page for the fictional AI-powered marketing tool, **ADmyBRAND AI Suite**. Built with modern 2025 design trends, smooth scroll animations, and a reusable component system using **Next.js 14 App Router**, **Tailwind CSS**, and **TypeScript**.
+
+## 🌐 Live Demo
+👉 [View Website](https://ai-iota-liard.vercel.app)
+
+---
+
+## 📦 Features
+
+### 🔥 Core Landing Sections
+- **Hero Section**: Catchy headline, subtext, CTA button, and hero image.
+- **Features**: 6+ key product features with icons.
+- **Pricing**: 3 tier cards with feature breakdown.
+- **Testimonials**: Carousel slider with real customer photos and reviews.
+- **FAQs**: Expandable/collapsible questions.
+- **Footer**: Socials, links, and contact info.
+
+### ✨ UI/UX Highlights
+- **Glassmorphism**: Modern blurred background effects.
+- **Framer Motion Animations**: Smooth scroll-in and hover animations.
+- **Premium Typography**: Clean font hierarchy and readability.
+- **Mobile-First Design**: 100% responsive across devices.
+
+### ⚙️ Technical Implementation
+- **Next.js 14+ (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Reusable Component Library** (8+ components):
+  - `Button`, `Card`, `Modal`, `TestimonialCard`, `FAQItem`, `FeatureItem`, `PricingCard`, `Header`, etc.
+- **Contact Form** with input validation (frontend only)
+- **Image Optimization** with Next.js Image component
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js v18+
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/admybrand-ai-suite.git
+cd admybrand-ai-suite
+npm install
+# or
+yarn
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
